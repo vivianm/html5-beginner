@@ -28,4 +28,10 @@ n: 0;
 							  
 							  p {  
 							      padding-bottom: 22px;  
-							      }  
+							      } 
+							          nav {  
+								          position: absolute;  
+									          left: 0;  
+										          width: 100%;  
+											          background: url("nav_background");  
+												      }  
