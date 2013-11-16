@@ -128,7 +128,7 @@ n: 0;
 										           -moz-column-gap: 22px;  
 											           -webkit-column-gap: 22px;  
 												       } 
-												           .blogPost img {  
-													           margin: 22px 0;  
-														           box-shadow: 3px 3px 7px #777;  
-															       }  
+		.blogPost img {  
+		    margin: 22px 0;  
+		        -webkit-box-shadow: 3px 3px 7px #777;  
+			}
