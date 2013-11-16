@@ -118,5 +118,12 @@ n: 0;
 											         aside {  
 												             display: table-cell;  
 													                 width: 300px;  
-															         }  
+															         }
+					    <div>  
+					            <p>Lorem ipsum dolor sit amet...</p>  
+						            <p>Pellentesque ut sapien arcu...</p>  
+							            <p>Vivamus vitae nulla dolor...</p>  
+								            ...  
+									        </div>  
+
 
