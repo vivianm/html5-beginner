@@ -102,5 +102,11 @@ n: 0;
 																																					      #intro p {  
 																																					              padding: 0;  
 																																						              color: #d9f499;  
-																																							          }  
+																																							          } 
+																																								      #intro {  
+																																								              ...  
+																																									              background: #467612 url("intro_background.png") top left (287px 100%) repeat-x,  
+																																										                      url("intro_flower.png") top rightright (653px 100%) no-repeat;  
+																																												              ...  
+																																													          }  
 
