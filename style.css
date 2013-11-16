@@ -120,10 +120,11 @@ n: 0;
 													                 width: 300px;  
 															         }
 					    <div>  
-					            <p>Lorem ipsum dolor sit amet...</p>  
-						            <p>Pellentesque ut sapien arcu...</p>  
-							            <p>Vivamus vitae nulla dolor...</p>  
-								            ...  
-									        </div>  
-
-
+	    .blogPost {  
+	            column-count: 2;  
+		            column-gap: 22px;  
+			        }  
+				      
+				              .blogPost header {  
+					                  column-span: all;  
+							          }  
