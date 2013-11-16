@@ -132,3 +132,12 @@ n: 0;
 		    margin: 22px 0;  
 		        -webkit-box-shadow: 3px 3px 7px #777;  
 			}
+			    section#comments article:nth-child(2n+1) {  
+			            padding: 21px;  
+				            background: #E3E3E3;  
+					            border: 1px solid #d7d7d7;  
+						          
+							          /* Border-radius not implemented yet */  
+								          -moz-border-radius: 11px;  
+									          -webkit-border-radius: 11px;  
+										      }  
