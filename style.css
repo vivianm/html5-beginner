@@ -88,5 +88,19 @@ n: 0;
 																										          /* Border-radius not implemented yet */  
 																											          -moz-border-radius: 22px;  
 																												          -webkit-border-radius: 22px;  
-																													      }  
+																													      } 
+																													          #intro h2, #intro pŒ·Œ˘Œ›ŒÌŒÈ{  
+																														          width: 336px;  
+																															      }  
+																															            
+																																        #intro h2 {  
+																																	        padding: 0 0 22px 0;  
+																																		        font-weight: normal  
+																																			        color: #fff;  
+																																				    }  
+																																				          
+																																					      #intro p {  
+																																					              padding: 0;  
+																																						              color: #d9f499;  
+																																							          }  
 
